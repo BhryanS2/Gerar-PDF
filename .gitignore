@@ -1,0 +1,5 @@
+*.log
+node_modules/
+arquivo.pdf
+*.lock
+.editorconfig
